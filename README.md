@@ -85,7 +85,7 @@ Passionate about technology, programming, and industrial automation, I strive to
     title="Ladder"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dbdbd21-473f-42ae-8e3b-fa13a1070f1c/djnup6m-591f9d5d-1931-415c-9970-a5b7559a849d.png" width="40" alt="Custom Icon 2" 
+    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dbdbd21-473f-42ae-8e3b-fa13a1070f1c/djnup6m-591f9d5d-1931-415c-9970-a5b7559a849d.png" width="40" alt="Custom Icon 2"
 />
 <img 
     align="left" 
