@@ -1,12 +1,12 @@
 ## Pedro Villafanha
 
-**`Engenheiro de Automação e Controle e Desenvolvedor de Sistemas`**
+**`Control and Automation Engineer & Systems Developer`**
 
-Me chamo Pedro Villafanha Martinez, tenho 24 anos e sou natural de São Paulo. Sou Engenheiro de Controle e Automação pela UNISAL, técnico em Eletroeletrônica pelo SENAI e cursando minha segunda graduação em Análise e Desenvolvimento de Sistemas pela FATEC.
-Apaixonado por tecnologia, programação e automação industrial, busco integrar sistemas físicos e digitais através de projetos práticos e inovadores.
+My name is Pedro Villafanha Martinez, I'm 24 years old and originally from São Paulo, Brazil.  
+I hold a degree in Control and Automation Engineering, a technical diploma in Electroelectronics and I'm currently pursuing a second degree in Systems Analysis and Development. 
+Passionate about technology, programming, and industrial automation, I strive to bridge the physical and digital worlds through practical and innovative projects.
 
-### 🤖 Linguagens e Tecnologias
-
+### 🤖 Languages & Technologies
 <img 
     align="left" 
     alt="HTML"
