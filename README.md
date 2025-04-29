@@ -57,11 +57,11 @@ Passionate about technology, programming, and industrial automation, I strive to
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="COBOL" 
+    title="COBOL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://static-00.iconduck.com/assets.00/file-type-cobol-icon-2048x1753-5yvlgc33.png" width="40" alt="COBOL Icon"
 />
 <img 
     align="left" 
@@ -70,6 +70,14 @@ Passionate about technology, programming, and industrial automation, I strive to
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
     align="left" 
@@ -111,12 +119,3 @@ Passionate about technology, programming, and industrial automation, I strive to
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Prog Integrada" 
-    title="Prog Integrada"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://static-00.iconduck.com/assets.00/file-type-cobol-icon-2048x1753-5yvlgc33.png" width="40" alt="COBOL Icon"
-/>
-src="https://static-00.iconduck.com/assets.00/file-type-cobol-icon-2048x1753-5yvlgc33.png" width="40" alt="COBOL Icon"
