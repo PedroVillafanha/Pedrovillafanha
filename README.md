@@ -101,7 +101,7 @@ Passionate about technology, programming, and industrial automation, I strive to
     title="Arduino"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+    src="https://static-00.iconduck.com/assets.00/arduino-icon-256x256-g6e66nx5.png" width="40" alt="Arduino Icon"
 />
 <img 
     align="left" 
