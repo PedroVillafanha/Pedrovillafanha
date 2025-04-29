@@ -85,7 +85,7 @@ Passionate about technology, programming, and industrial automation, I strive to
     title="Ladder"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dbdbd21-473f-42ae-8e3b-fa13a1070f1c/djnup6m-591f9d5d-1931-415c-9970-a5b7559a849d.png"
+    src="https://i.pinimg.com/736x/eb/f0/07/ebf007a334e96fb094d2e7b63ca521d4.jpg" width="40" alt="Ícone personalizado 2"
 />
 <img 
     align="left" 
@@ -93,7 +93,7 @@ Passionate about technology, programming, and industrial automation, I strive to
     title="CFC"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dbdbd21-473f-42ae-8e3b-fa13a1070f1c/djnup8h-99518664-1127-4cef-966f-384deb6693b2.png"
+    src="https://i.pinimg.com/736x/53/39/64/5339649237c76e67156e208f38484d7b.jpg" width="40" alt="Ícone personalizado 1"
 />
 <img 
     align="left" 
