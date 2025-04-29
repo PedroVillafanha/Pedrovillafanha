@@ -65,6 +65,14 @@ Apaixonado por tecnologia, programação e automação industrial, busco integra
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Ladder" 
     title="Ladder"
     width="30px" 
@@ -81,9 +89,25 @@ Apaixonado por tecnologia, programação e automação industrial, busco integra
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Arduino" 
+    title="Arduino"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Raspberrypi" 
+    title="Raspberrypi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Prog Integrada" 
+    title="Prog Integrada"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-plain.svg" 
 />
