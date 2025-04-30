@@ -81,6 +81,14 @@ Passionate about technology, programming, and industrial automation, I strive to
 />
 <img 
     align="left" 
+    alt="ArchLinux" 
+    title="ArchLinux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Ladder" 
     title="Ladder"
     width="30px" 
