@@ -121,8 +121,8 @@ Passionate about technology, programming, and industrial automation, I strive to
 />
 <img 
     align="left" 
-    alt="Prog Integrada" 
-    title="Prog Integrada"
+    alt="EmbeddedC" 
+    title="EmbeddedC"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" 
