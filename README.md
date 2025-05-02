@@ -138,7 +138,7 @@ Passionate about technology, programming, and industrial automation, I strive to
     alt="GitHub Stats" 
     height="200" 
     style="max-width: 48%;" 
-    src="https://github-readme-stats.vercel.app/api?username=PedroVillafanha&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=PedroVillafanha&show_icons=true&theme=transparent&include_all_commits=true&locale=en-us" 
   />
 
   <img 
