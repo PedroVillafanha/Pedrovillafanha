@@ -133,7 +133,7 @@ Passionate about technology, programming, and industrial automation, I strive to
 
 ### 📊 Stats
 
-<p style="display: flex; justify-content: space-between; gap: 10px; align-items: center;">
+<p>
   <img 
     alt="GitHub Stats" 
     height="200" 
