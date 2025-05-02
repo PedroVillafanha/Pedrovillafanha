@@ -141,12 +141,4 @@ Passionate about technology, programming, and industrial automation, I strive to
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=PedroVillafanha&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovillafanha&theme=darkt&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-    
 </p>
