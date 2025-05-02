@@ -128,6 +128,8 @@ Passionate about technology, programming, and industrial automation, I strive to
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" 
 />
 
+</p>
+
 ### 📊 Estatísticas
 
 <p>
@@ -136,13 +138,6 @@ Passionate about technology, programming, and industrial automation, I strive to
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PedroVillafanha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="[https://github-readme-stats.vercel.app/api?username=PedroVillafanha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=PedroVillafanha&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVillafanha&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+</p>
