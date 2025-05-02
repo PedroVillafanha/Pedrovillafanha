@@ -133,22 +133,20 @@ Passionate about technology, programming, and industrial automation, I strive to
 
 ### 📊 Stats
 
-<p>
+<p style="display: flex; justify-content: space-between; gap: 10px;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PedroVillafanha&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="flex: 1; max-width: 48%;" 
   />
 
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovillafanha&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    style="flex: 1; max-width: 48%;" 
+  />
 </p>
+
+
