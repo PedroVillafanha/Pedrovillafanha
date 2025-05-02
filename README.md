@@ -131,7 +131,7 @@ Passionate about technology, programming, and industrial automation, I strive to
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
