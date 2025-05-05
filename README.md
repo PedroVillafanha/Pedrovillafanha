@@ -14,6 +14,15 @@ Passionate about technology, programming, and industrial automation, I strive to
             src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+
+  <a href="pedrovillafanham@gmail.com" target="_blank">
+        <img 
+            alt="E-mail" 
+            title="Me mande um e-mail" 
+            src="https://img.shields.io/badge/E--MAIL-red?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+
 </p>
 
 
