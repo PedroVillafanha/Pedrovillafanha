@@ -10,7 +10,7 @@ Passionate about technology, programming, and industrial automation, I strive to
     <a href="https://www.linkedin.com/in/pedro-villafanha-martinez-1a30131aa" target="_blank">
         <img 
             alt="LinkedIn" 
-            title="Conecte-se no LinkedIn" 
+            title="´´" 
             src="https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
