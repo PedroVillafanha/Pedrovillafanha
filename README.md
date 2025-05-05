@@ -14,14 +14,6 @@ Passionate about technology, programming, and industrial automation, I strive to
             src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-
-   <a href="https://github.com/Pedrovillafanha?tab=repositories&sort=stargazers" target="_blank">
-        <img 
-            alt="Estrelas no GitHub" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Pedrovillafanha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
 </p>
 
 
