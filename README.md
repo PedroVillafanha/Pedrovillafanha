@@ -7,11 +7,12 @@ I hold a degree in Control and Automation Engineering, a technical diploma in El
 Passionate about technology, programming, and industrial automation, I strive to bridge the physical and digital worlds through practical and innovative projects.
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/pedro-villafanha-martinez-1a30131aa" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-villafanha-martinez-1a30131aa" target="_blank">
     <img 
         alt="LinkedIn" 
         title="Conecte-se comigo no LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+        width="40"
     />
 </a>
     <a href="https://github.com/Pedrovillafanha?tab=repositories&sort=stargazers">
