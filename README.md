@@ -11,7 +11,7 @@ Passionate about technology, programming, and industrial automation, I strive to
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
         />
     </a>
 
