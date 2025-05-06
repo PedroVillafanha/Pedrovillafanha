@@ -32,6 +32,8 @@
 <img align="center" alt="Kotlin" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 <img align="center" alt="COBOL" height="50" width="50" src="https://static-00.iconduck.com/assets.00/file-type-cobol-icon-2048x1753-5yvlgc33.png">
 <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Ladder" height="50" width="50" src="https://i.imgur.com/X1gWNTS.png">
+<img align="center" alt="CFC" height="50" width="50" src="https://i.imgur.com/MMKaPME.png">
 
  <br>
  </div>
@@ -44,8 +46,6 @@
    <br>
  <img align="center" alt="FIGMA" height="60" width="60" src="https://miro.medium.com/v2/resize:fit:1340/0*UTBrDcrJ6SbePBzR">
  <img align="center" alt="ArchLinux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
- <img align="center" alt="Ladder" height="50" width="50" src="https://i.imgur.com/X1gWNTS.png">
- <img align="center" alt="CFC" height="50" width="50" src="https://i.imgur.com/MMKaPME.png">
  <img align="center" alt="Arduino" height="50" width="50" src="https://static-00.iconduck.com/assets.00/arduino-icon-256x256-g6e66nx5.png">
  <img align="center" alt="Raspberrypi" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
  <img align="center" alt="EmbeddedC" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg">
