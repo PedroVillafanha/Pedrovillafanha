@@ -1,175 +1,79 @@
 <div align="center">
  <!--BORDER-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=100&section=header"/>
 
  <!--APRESENTAÇÃO-->       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#00008B&size=32&center=true&vCenter=true&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Pedro;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66ccff&size=32&center=true&vCenter=true&width=1000&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Pedro;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
-<h1><img align="" height="60" width="50" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">About me:</h1>
+<h1><img align="" height="60" width="50" src="https://i.gifer.com/24S2.gif">About me:</h1>
 </div>
 
-**`Control and Automation Engineer & Systems Developer`**
+<br>
 
+**`Control and Automation Engineer & Systems Developer`**
 My name is Pedro Villafanha Martinez, I'm 24 years old and originally from São Paulo, Brazil.  
 I hold a degree in Control and Automation Engineering, a technical diploma in Electroelectronics and I'm currently pursuing a second degree in Systems Analysis and Development. 
 Passionate about technology, programming, and industrial automation, I strive to bridge the physical and digital worlds through practical and innovative projects.
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-    <a href="https://www.linkedin.com/in/pedro-villafanha-martinez-1a30131aa" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+<!--Languages -->
+<div align="center"> 
+   <p><br></p>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Languages" alt="Typing SVG" /></a>
+   <br>
+<img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="C++" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="C#" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Kotlin" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+<img align="center" alt="COBOL" height="50" width="50" src="https://static-00.iconduck.com/assets.00/file-type-cobol-icon-2048x1753-5yvlgc33.png">
+<img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<a href="mailto:pedrovillafanham@gmail.com" target="_blank">
-        <img 
-            alt="E-mail" 
-            title="Me mande um e-mail" 
-            src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
+ <br>
+ </div>
+ <br>
 
+<!--Tools -->
+<div align="center">
+   <p><br></p>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Tools+and+Technologies" alt="Typing SVG" /></a>
+   <br>
+ <img align="center" alt="FIGMA" height="60" width="60" src="https://miro.medium.com/v2/resize:fit:1340/0*UTBrDcrJ6SbePBzR">
+ <img align="center" alt="ArchLinux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
+ <img align="center" alt="Ladder" height="50" width="50" src="https://i.imgur.com/X1gWNTS.png">
+ <img align="center" alt="CFC" height="50" width="50" src="https://i.imgur.com/MMKaPME.png">
+ <img align="center" alt="Arduino" height="50" width="50" src="https://static-00.iconduck.com/assets.00/arduino-icon-256x256-g6e66nx5.png">
+ <img align="center" alt="Raspberrypi" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
+ <img align="center" alt="EmbeddedC" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg">
+ <img align="center" alt="vscode" height="60" width="60" src="https://code.visualstudio.com/assets/branding/app-icon.png">
+</div>
+<br>
 
-### 🤖 Languages & Technologies
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="COBOL" 
-    title="COBOL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://static-00.iconduck.com/assets.00/file-type-cobol-icon-2048x1753-5yvlgc33.png" width="40" alt="COBOL Icon"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="ArchLinux" 
-    title="ArchLinux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Ladder" 
-    title="Ladder"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://i.imgur.com/X1gWNTS.png" width="40" alt="Ícone personalizado 2"
-/>
-<img 
-    align="left" 
-    alt="CFC" 
-    title="CFC"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://i.imgur.com/MMKaPME.png" width="40" alt="Ícone personalizado"
-/>
-<img 
-    align="left" 
-    alt="Arduino" 
-    title="Arduino"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://static-00.iconduck.com/assets.00/arduino-icon-256x256-g6e66nx5.png" width="40" alt="Arduino Icon"
-/>
-<img 
-    align="left" 
-    alt="Raspberrypi" 
-    title="Raspberrypi"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="EmbeddedC" 
-    title="EmbeddedC"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" 
-/>
+<!--ICONS DE REDE SOCIAL E OS LINKS -->
+<div align="center"> 
+ <p><br></p>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Follow+me%3A" alt="Typing SVG" /></a>
+ <br>
+  <a href="https://instagram.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedrovillafanham@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-villafanha-martinez-1a30131aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p></p>
+  <br>
+</div>
 
-<br/>
-<br/>
-
-### 📊 Stats
-
+<!--Stats -->
 <p>
+ 
+ <!--Level -->
   <img 
     alt="GitHub Stats" 
     height="200" 
     style="max-width: 48%;" 
     src="https://github-readme-stats.vercel.app/api?username=PedroVillafanha&show_icons=true&theme=transparent&include_all_commits=true&locale=en" 
   />
-
+ 
+<!--Languages % -->
   <img 
     alt="GitHub Stats" 
     height="200" 
@@ -177,3 +81,18 @@ Passionate about technology, programming, and industrial automation, I strive to
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovillafanha&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<!--Grafic -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrovillafanha&bg_color=0d1117&color=1f6feb&line=0a3069&point=3b82f6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--Visitors -->
+<hr>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedrovillafanha}/count.svg" /></p> 
+<br>
+</div>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=footer"/>
+   
+</div>
