@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
  <!--BORDER-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=100&section=header"/>
 
