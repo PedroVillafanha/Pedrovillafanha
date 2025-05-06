@@ -12,7 +12,6 @@
 
 <br>
 
-**`Control and Automation Engineer & Systems Developer`**
 My name is Pedro Villafanha Martinez, I'm 24 years old and originally from São Paulo, Brazil.  
 I hold a degree in Control and Automation Engineering, a technical diploma in Electroelectronics and I'm currently pursuing a second degree in Systems Analysis and Development. 
 Passionate about technology, programming, and industrial automation, I strive to bridge the physical and digital worlds through practical and innovative projects.
