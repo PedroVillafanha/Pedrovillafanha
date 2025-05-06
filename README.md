@@ -11,12 +11,10 @@
 </div>
 <br>
 
-<link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
-
 <div align="rigth">
-  <p style="font-family: 'Special Elite', monospace; font-size: 18px; max-width: 700px;">
-    <strong>My name is Pedro Villafanha Martinez</strong>, I'm 24 years old and originally from São Paulo, Brazil.<br><br>
-    I hold a degree in <strong>Control and Automation Engineering</strong>, a technical diploma in <strong>Electroelectronics</strong>, and I'm currently pursuing a second degree in <strong>Systems Analysis and Development</strong>.<br><br>
+  <p style="font-size: 18px; max-width: 700px;">
+    <strong>My name is Pedro Villafanha Martinez</strong>, I'm 24 years old and originally from São Paulo, Brazil.  
+    I hold a degree in <strong>Control and Automation Engineering</strong>, a technical diploma in <strong>Electroelectronics</strong>, and I'm currently pursuing a second degree in <strong>Systems Analysis and Development</strong>.  
     Passionate about technology, programming, and industrial automation, I strive to bridge the physical and digital worlds through practical and innovative projects.
   </p>
 </div>
