@@ -9,12 +9,16 @@
 <div align="center">
 <h1><img align="" height="60" width="50" src="https://i.gifer.com/24S2.gif">About me:</h1>
 </div>
-
 <br>
 
-My name is Pedro Villafanha Martinez, I'm 24 years old and originally from São Paulo, Brazil.  
-I hold a degree in Control and Automation Engineering, a technical diploma in Electroelectronics and I'm currently pursuing a second degree in Systems Analysis and Development. 
-Passionate about technology, programming, and industrial automation, I strive to bridge the physical and digital worlds through practical and innovative projects.
+<div align="center">
+  <p style="font-family: 'Courier New', Courier, monospace; font-size: 18px; max-width: 700px;">
+    <strong>My name is Pedro Villafanha Martinez</strong>, I'm 24 years old and originally from São Paulo, Brazil.  
+    I hold a degree in <strong>Control and Automation Engineering</strong>, a technical diploma in <strong>Electroelectronics</strong>, and I'm currently pursuing a second degree in <strong>Systems Analysis and Development</strong>.  
+    Passionate about technology, programming, and industrial automation, I strive to bridge the physical and digital worlds through practical and innovative projects.
+  </p>
+</div>
+
 
 <!--Languages -->
 <div align="center"> 
