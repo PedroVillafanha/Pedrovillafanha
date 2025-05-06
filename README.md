@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<h1><img align="" height="60" width="50" src="https://i.gifer.com/24S2.gif">About me:</h1>
+<h1><img align="" height="40" width="30" src="https://media2.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif?cid=6c09b952semgnhsrorq2ovow8yix4elhook5g99s5p63he32&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> About me:</h1>
 </div>
 <br>
 
@@ -58,9 +58,12 @@
  <p><br></p>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Follow+me%3A" alt="Typing SVG" /></a>
  <br>
+ <a href="https://www.linkedin.com/in/pedro-villafanha-martinez-1a30131aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:pedrovillafanham@gmail.com"><img src="https://img.shields.io/badge/-Gmail-green?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  <a href="https://www.linkedin.com/in/pedro-villafanha-martinez-1a30131aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p></p>
+  
+   <p>
+   </p>
   <br>
 </div>
 
