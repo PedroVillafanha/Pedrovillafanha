@@ -102,4 +102,3 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=footer"/>
    
 </div>
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg)
