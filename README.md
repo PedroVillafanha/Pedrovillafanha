@@ -11,7 +11,7 @@ Passionate about technology, programming, and industrial automation, I strive to
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
         />
     </a>
 
