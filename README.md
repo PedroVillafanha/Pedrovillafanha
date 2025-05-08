@@ -59,9 +59,17 @@
  <p><br></p>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=My+Links%3A" alt="Typing SVG" /></a>
  <br>
- <a href="https://www.linkedin.com/in/pedro-villafanha-martinez-1a30131aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="mailto:pedrovillafanham@gmail.com"><img src="https://img.shields.io/badge/-Gmail-green?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  
+<a href="https://www.linkedin.com/in/pedro-villafanha-martinez-1a30131aa" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="mailto:pedrovillafanham@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://drive.google.com/file/d/SEU_ARQUIVO_ID/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/CV-yellow?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+
+<a href="https://seusite.com" target="_blank">
+  <img src="https://img.shields.io/badge/Site-orange?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
    <p>
    </p>
   <br>
