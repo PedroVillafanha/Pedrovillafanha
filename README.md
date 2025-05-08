@@ -24,14 +24,14 @@
    <p><br></p>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Languages" alt="Typing SVG" /></a>
    <br>
-<img align="center" alt="HTML" title="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="HTML" title="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" title="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 <img align="center" alt="C" title="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="center" alt="C++" title="C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="C#" title="C#" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Kotlin" title="Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
 <img align="center" alt="COBOL" title="COBOL" height="50" width="50" src="https://static-00.iconduck.com/assets.00/file-type-cobol-icon-2048x1753-5yvlgc33.png">
-<img align="center" alt="Python" title="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Python" title="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 <img align="center" alt="Ladder" title="Ladder" height="50" width="50" src="https://i.imgur.com/X1gWNTS.png">
 <img align="center" alt="CFC" title="CFC" height="50" width="50" src="https://i.imgur.com/MMKaPME.png">
 
@@ -49,7 +49,7 @@
  <img align="center" alt="ArchLinux" title="ArchLinux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
  <img align="center" alt="Arduino" title="Arduino" height="50" width="50" src="https://static-00.iconduck.com/assets.00/arduino-icon-256x256-g6e66nx5.png">
  <img align="center" alt="Raspberrypi" title="RaspberryPi" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg">
- <img align="center" alt="EmbeddedC" title="EmbeddedC" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg">
+ <img align="center" alt="EmbeddedC" title="EmbeddedC" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg">
  
 </div>
 <br>
