@@ -65,7 +65,7 @@
 <a href="mailto:pedrovillafanham@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<a href="https://drive.google.com/file/d/SEU_ARQUIVO_ID/view?usp=sharing" target="_blank">
+<a href="[https://drive.google.com/file/d/SEU_ARQUIVO_ID/view?usp=sharing](https://drive.google.com/file/d/1lxypETzd4P5fGHA3pY_KBRNj0flpZgnr/view?usp=drive_link)" target="_blank">
   <img src="https://img.shields.io/badge/CV-yellow?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
 
 <a href="https://seusite.com" target="_blank">
